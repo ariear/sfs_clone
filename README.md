@@ -2,16 +2,9 @@
 
 Sebuah Aplikasi yang Memudahkan Aktivitas Akademik
 
-## Getting Started
+## Screenshot Hasil Slicing
 
-This project is a starting point for a Flutter application.
+| <img width="720" height="1600" alt="Screenshot_20260408-201423 sfs_unej" src="https://github.com/user-attachments/assets/e5ba818f-42fa-4434-a21b-4cde3c834839" /> | <img width="720" height="1600" alt="Screenshot_20260408-201439 sfs_unej" src="https://github.com/user-attachments/assets/56cc23fd-2be3-4621-bcdc-4ad3e129c303" /> |
+| -------- | -------- |
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
